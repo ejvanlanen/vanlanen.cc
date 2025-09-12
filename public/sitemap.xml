@@ -2,16 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vanlanen.cc/</loc>
-    <lastmod>2025-09-11T22:05:36+02:00</lastmod>
-  </url><url>
     <loc>https://vanlanen.cc/posts/my-first-post/</loc>
-    <lastmod>2025-09-11T22:05:36+02:00</lastmod>
+    <lastmod>2025-09-12T22:05:36+02:00</lastmod>
+  </url><url>
+    <loc>https://vanlanen.cc/</loc>
+    <lastmod>2025-09-12T22:05:36+02:00</lastmod>
   </url><url>
     <loc>https://vanlanen.cc/posts/</loc>
-    <lastmod>2025-09-11T22:05:36+02:00</lastmod>
+    <lastmod>2025-09-12T22:05:36+02:00</lastmod>
   </url><url>
     <loc>https://vanlanen.cc/categories/</loc>
+  </url><url>
+    <loc>https://vanlanen.cc/archives/</loc>
   </url><url>
     <loc>https://vanlanen.cc/tags/</loc>
   </url>

@@ -1,13 +1,13 @@
 baseURL: https://vanlanen.cc
 languageCode: en-us
-title: 
+title: EJ van Lanen
 theme: ["PaperMod"]
 
 params:
   profileMode:
     enabled: true
-    title: "<Title>" # optional default will be site title
-    subtitle: "EJ van Lanen"
+    title: " " # optional default will be site title
+    subtitle:
     imageUrl: "images/ej.png" # optional
     imageTitle: "<title of image as alt>" # optional
     imageWidth: 200 # custom size
@@ -28,3 +28,7 @@ params:
 caches:
   images:
     dir: :cacheDir/images
+menu:
+  main:
+    - name: Posts
+      url: archives/
