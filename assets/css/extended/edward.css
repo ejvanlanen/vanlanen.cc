@@ -5,5 +5,8 @@
 }
 
 .profile {
-    border: 1px solid black;
+    border: 1px dotted #4c566a;
+}
+.profile img {
+    filter: drop-shadow(2px 2px 2px rgba(76, 86, 106, 0.3));
 }
