@@ -1,6 +1,6 @@
 baseURL: https://vanlanen.cc
 languageCode: en-us
-title: My New Hugo Site
+title: 
 theme: ["PaperMod"]
 
 params:
@@ -12,17 +12,19 @@ params:
     imageTitle: "<title of image as alt>" # optional
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size
-    buttons:
-      - name: Archive
-        url: "/archive"
-      - name: Github
-        url: "https://github.com/"
+    #buttons:
+    #  - name: Archive
+    #    url: "/archive"
+    #  - name: Github
+    #    url: "https://github.com/"
 
   socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
+    - name: "LinkedIn"
+      url: "https://linkedin.com/in/ejvanlanen"
+    - name: "Mastodon"
+      url: "https://fakenham.cc/@ej"
+    - name: "Bluesky"
+      url: "https://bsky.app/profile/vanlanen.cc"
 caches:
   images:
     dir: :cacheDir/images
