@@ -17,6 +17,10 @@ params:
     #    url: "/archive"
     #  - name: Github
     #    url: "https://github.com/"
+  services:
+    umami_analytics:
+      id: 9a006d9e-d980-4669-af9c-43a088e93f77
+      script_url: https://umami.fakenham.cc/script.js
 
   socialIcons: # optional
     - name: "LinkedIn"

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on EJ van Lanen</title>
-    <link>https://vanlanen.cc/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on EJ van Lanen</description>
-    <generator>Hugo -- 0.147.3</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Sep 2025 22:05:36 +0200</lastBuildDate>
-    <atom:link href="https://vanlanen.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>12 September 2025</title>
-      <link>https://vanlanen.cc/posts/12-september/</link>
+      <link>http://localhost:1313/posts/12-september/</link>
       <pubDate>Fri, 12 Sep 2025 22:05:36 +0200</pubDate>
-      <guid>https://vanlanen.cc/posts/12-september/</guid>
+      <guid>http://localhost:1313/posts/12-september/</guid>
       <description>&lt;p&gt;Hugo is established.&lt;/p&gt;</description>
     </item>
   </channel>
