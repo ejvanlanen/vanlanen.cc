@@ -14,15 +14,23 @@
 #menu a {
     font-family: Literata;
 }
+
+#menu .active {
+    font-weight: 500;
+    border-bottom: 0;
+}
+
 .profile img {
     filter: drop-shadow(2px 2px 2px rgba(76, 86, 106, 0.3));
 }
 
 .archive-entry {
-    border: 1px dotted var(--secondary);
+    border-top: 0px dotted var(--secondary);
     padding: 30px;
-    margin-bottom: 60px;
-    border-radius: 5px;
+    margin-bottom: 0px;
+    border-radius: 0px;
+    background-color: rgb(242, 242, 242);
+    filter: drop-shadow(2px 2px 2px rgba(76, 86, 106, 0.09));
 }
 
 .archive-year {
@@ -95,4 +103,8 @@ h4 {
     //padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
     text-align: center;
     line-height: 24px;
+}
+
+.archive-month:not(:last-of-type) {
+    border-bottom: 0;
 }
