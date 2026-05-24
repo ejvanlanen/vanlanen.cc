@@ -24,7 +24,8 @@ params:
     umami_analytics:
       id: 9a006d9e-d980-4669-af9c-43a088e93f77
       script_url: https://umami.fakenham.cc/script.js
-
+  defaultTheme: light
+  disableThemeToggle: true
   socialIcons: # optional
     - name: "LinkedIn"
       url: "https://linkedin.com/in/ejvanlanen"
