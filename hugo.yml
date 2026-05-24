@@ -1,13 +1,16 @@
 baseURL: https://vanlanen.cc
-languageCode: en-us
+locale: en-us
 title: EJ van Lanen
 theme: ["PaperMod"]
-
+author:
+  name: "EJ"
+  email: "ej@vanlanen.cc"
 params:
   profileMode:
     enabled: true
     title: " " # optional default will be site title
     subtitle:
+    author: "EJ"
     imageUrl: "images/ej.png" # optional
     imageTitle: "<title of image as alt>" # optional
     imageWidth: 200 # custom size
@@ -26,7 +29,7 @@ params:
     - name: "LinkedIn"
       url: "https://linkedin.com/in/ejvanlanen"
     - name: "Mastodon"
-      url: "https://fakenham.cc/@ej"
+      url: "https://edwardjam.es/@ej"
     - name: "Bluesky"
       url: "https://bsky.app/profile/vanlanen.cc"
 caches:

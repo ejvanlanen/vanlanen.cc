@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/12-september/</loc>
+    <loc>https://vanlanen.cc/posts/12-september/</loc>
     <lastmod>2025-09-12T22:05:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://vanlanen.cc/</loc>
     <lastmod>2025-09-12T22:05:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://vanlanen.cc/posts/</loc>
     <lastmod>2025-09-12T22:05:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://vanlanen.cc/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://vanlanen.cc/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://vanlanen.cc/tags/</loc>
   </url>
 </urlset>
