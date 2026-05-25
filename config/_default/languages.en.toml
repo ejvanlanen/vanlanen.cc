@@ -15,8 +15,8 @@ title = "vanlanen.cc"
 [params.author]
   name = "EJ van Lanen"
   image = "img/ej.png"
-  headline = " ... "
-  # bio = "A little bit about you"
+  headline = "Resident in 🇦🇹 Vienna. Co-founder of 📚 Open Letter Books; founder of the oh-too-short-lived 📚 Frisch & Co; and co-founder of 👩‍🔬 Scientific African."
+  bio = "Resident in 🇦🇹 Vienna. Co-founder of 📚 Open Letter Books; founder of the oh-too-short-lived 📚 Frisch & Co; and co-founder of 👩‍🔬 Scientific African."
   links = [
     { email = "mailto:ej@vanlanen.cc" },
   #   { link = "https://link-to-some-website.com/" },
