@@ -20,7 +20,7 @@ jobs:
     env:
       DART_SASS_VERSION: 1.92.1
       GO_VERSION: 1.25.1
-      HUGO_VERSION: 0.161.1 # <-- Updated to fix Congo .Locale error
+      HUGO_VERSION: 0.150.0
       NODE_VERSION: 22.18.0
       TZ: Europe/Oslo
     steps:
@@ -71,11 +71,12 @@ jobs:
           git config core.quotepath false
       - name: Cache restore
         id: cache-restore
-        uses: actions/cache/restore@v4 # Keeps tracking dependencies on updated runners securely
+        uses: actions/cache/restore@v4
         with:
           path: ${{ runner.temp }}/hugo_cache
           key: hugo-${{ github.run_id }}
-          restore-keys: hugo-
+          restore-keys:
+            hugo-
       - name: Build the site
         run: |
           hugo \
