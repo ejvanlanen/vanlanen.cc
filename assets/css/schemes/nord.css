@@ -1,0 +1,47 @@
+/* Nord Theme Scheme */
+:root {
+    font-family: "Literata";
+    --color-neutral: 255, 255, 255;
+    --color-aurora-purple: 180, 142, 173;
+    --color-aurora-orange: 208, 135, 112;
+    --color-aurora-green: 163, 190, 140;
+
+    /* Nord Polar Night & Snow Storm (Neutrals) */
+    --color-neutral-50: 242, 244, 248; /* nord6: Brightest snow */
+    --color-neutral-100: 230, 233, 240; /* nord5: Snow storm */
+    --color-neutral-200: 216, 222, 233; /* nord4: Darker snow */
+    --color-neutral-300: 143, 188, 187; /* nord7: Aurora frost tint */
+    --color-neutral-400: 216, 222, 233; /* Mid-tone gray bridge */
+    --color-neutral-500: 76, 86, 106; /* nord3: Polar night light */
+    --color-neutral-600: 67, 76, 94; /* nord2: Polar night medium */
+    --color-neutral-700: 59, 66, 82; /* nord1: Polar night dark */
+    --color-neutral-800: 46, 52, 64; /* nord0: Deepest polar night */
+    --color-neutral-900: 36, 41, 51; /* Darker shade of nord0 */
+    --color-neutral-950: 26, 30, 38; /* Ultra-deep background */
+
+    /* Nord Frost Blues (Primary) */
+    --color-primary-50: 240, 247, 251; /* Ultra-light ice blue */
+    --color-primary-100: 213, 232, 243; /* Soft frost tint */
+    --color-primary-200: 143, 188, 187; /* nord7: Turquoise-ish frost */
+    --color-primary-300: 136, 192, 208; /* nord8: Clear ice blue */
+    --color-primary-400: 129, 161, 193; /* nord9: Deep arctic blue */
+    --color-primary-500: 94, 129, 172; /* nord10: Intense ocean blue */
+    --color-primary-600: 79, 110, 148; /* Deepened nord10 */
+    --color-primary-700: 64, 90, 123; /* Shaded primary */
+    --color-primary-800: 49, 70, 97; /* Shadowed primary */
+    --color-primary-900: 35, 51, 72; /* Deep navy frost */
+    --color-primary-950: 21, 31, 45; /* Near-black primary */
+
+    /* Nord Aurora Cyan & Teals (Secondary) */
+    --color-secondary-50: 235, 250, 250; /* Fresh mint tint */
+    --color-secondary-100: 200, 242, 240; /* Soft teal ice */
+    --color-secondary-200: 163, 229, 226; /* Light aurora cyan */
+    --color-secondary-300: 143, 188, 187; /* nord7: Blended core teal */
+    --color-secondary-400: 136, 192, 208; /* nord8: Glacial cyan */
+    --color-secondary-500: 114, 171, 187; /* Shaded nord8 */
+    --color-secondary-600: 92, 142, 157; /* Medium teal */
+    --color-secondary-700: 71, 112, 126; /* Deep lagoon teal */
+    --color-secondary-800: 51, 83, 94; /* Dark arctic ocean */
+    --color-secondary-900: 32, 55, 63; /* Deep abyss */
+    --color-secondary-950: 16, 30, 36; /* Darkest secondary accent */
+}

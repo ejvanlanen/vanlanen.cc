@@ -1,2 +1,4 @@
 github.com/hugomods/umami-analytics v0.3.1 h1:C4B1oKRBvCRamH3muiWK+QNbehmxd+7DiK80jHCdMJo=
 github.com/hugomods/umami-analytics v0.3.1/go.mod h1:nlZGLPH5L+H25+HwmuzHsEfM869+tMTUTcSUBcOQEm4=
+github.com/jpanther/congo/v2 v2.14.0 h1:qzd7vjZpSPJkyX27Yl3KT87jvYs2aghIHCHXPSmJtXo=
+github.com/jpanther/congo/v2 v2.14.0/go.mod h1:1S7DRoO1ZYS4YUdFd1LjTkdyjQwsjFWd8TqSfz3Jd+M=
